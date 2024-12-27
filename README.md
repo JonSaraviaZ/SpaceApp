@@ -1,8 +1,8 @@
 Proyecto académico realizado con # React + Vite
 
-![Home](https://github.com/user-attachments/assets/0a0a5636-ebb5-46d3-81e8-db0f491ae154)
-
 ![Loading](https://github.com/user-attachments/assets/895dc418-8db7-4a79-8607-8d2c53254e4e)
+
+![Home](https://github.com/user-attachments/assets/0a0a5636-ebb5-46d3-81e8-db0f491ae154)
 
 ![Zoom](https://github.com/user-attachments/assets/b93531d0-9a4e-46ec-a030-81cd57dadc99)
 
